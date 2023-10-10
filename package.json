@@ -1,0 +1,16 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test" : "echo \"나는 지금 테스트 중이다.\" && exit 1",
+    "yunjun" : "sass test.scss output-test.css",
+    "testTwo" : "sass testTwo.scss output-testTwo.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.1"
+  }
+}
